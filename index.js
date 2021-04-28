@@ -1,5 +1,5 @@
-import menus from './menu.json';
-import dishName from './dish.hbs';
+import menus from './src/menu.json';
+import dishName from './src/dish.hbs';
 console.log(menus)
 
 
